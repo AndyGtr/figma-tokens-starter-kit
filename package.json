@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/cow-wave-h6kk0.figma-tokens-m83ma6xl",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve NWpd1CafzsHHkKjo8ljg --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
